@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadanie 1", "zadanie 1\zadanie 1.csproj", "{BC81D236-7897-412B-8E53-40B6087E748A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadanie 2", "zadanie 2\zadanie 2.csproj", "{212AF525-5A9C-45E4-A86F-98E04668E544}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadanie3", "zadanie3\zadanie3.csproj", "{8BCC4951-CB32-4C9C-9CDA-C8067CBACF82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC81D236-7897-412B-8E53-40B6087E748A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC81D236-7897-412B-8E53-40B6087E748A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC81D236-7897-412B-8E53-40B6087E748A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC81D236-7897-412B-8E53-40B6087E748A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{212AF525-5A9C-45E4-A86F-98E04668E544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{212AF525-5A9C-45E4-A86F-98E04668E544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{212AF525-5A9C-45E4-A86F-98E04668E544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{212AF525-5A9C-45E4-A86F-98E04668E544}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BCC4951-CB32-4C9C-9CDA-C8067CBACF82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BCC4951-CB32-4C9C-9CDA-C8067CBACF82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BCC4951-CB32-4C9C-9CDA-C8067CBACF82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BCC4951-CB32-4C9C-9CDA-C8067CBACF82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBBDC180-2A36-431B-98C2-81188DF60BC2}
+	EndGlobalSection
+EndGlobal
